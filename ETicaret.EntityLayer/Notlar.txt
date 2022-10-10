@@ -1,0 +1,14 @@
+﻿Personel
+Uye
+Adresler
+Urunler
+Sepet
+Sipariş
+Fotoğraflar
+Kasalar
+Yorum
+Hakkımda
+Kategori
+Alt kategori
+Marka
+Özellikler
